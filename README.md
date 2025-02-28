@@ -5,4 +5,4 @@ This is a demo for git &amp; github class.
 shardha khapra
 
 # Student
-Sneha kri
+Sneha kumari
